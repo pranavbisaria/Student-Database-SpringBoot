@@ -1,13 +1,13 @@
-package com.pranav.StudentDatabase.demo;
+package com.pranav.crudapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class SpringbootCurdApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(SpringbootCurdApiApplication.class, args);
 	}
 
 }
